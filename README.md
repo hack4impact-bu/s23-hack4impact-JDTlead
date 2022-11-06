@@ -3,8 +3,10 @@ Spring2023 Hack4Impact Junior Development Team Repository
 
 ## FrontEnd Project
 
-### Clone Name 1
+### Pinterest Clone w/ HTML, CSS & JavaScript
+
+### Youtube Clone w/ ReactJS, Rapid API
 
 ## BackEnd Project
 
-### Clone Name 1
+### Twitter Clone w/ NodeJS, MongoDB
