@@ -1,5 +1,5 @@
 # s23-hack4impact
-Spring2023 Hack4Impact Junior Development Team Repository
+Spring2023 Hack4Impact Junior Development Team Repository. This repository consist of all 4 projects' complete code. If you want to go along with the workshop, please go to https://github.com/macyso12/s23-hack4impact-JDT to find the most updated version of the workshop to follow-along during the semester.
 
 ## FrontEnd Project
 
