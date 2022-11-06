@@ -6,6 +6,9 @@ Spring2023 Hack4Impact Junior Development Team Repository. This repository consi
 ### Pinterest Clone w/ HTML, CSS & JavaScript
 Build a pinterest clone, with some backend uploading functionality. But mainly focusing on the frontend aspect of the program.
 
+#### Workshop 1 Result
+![caption](workshop1-result.gif)
+
 ### Youtube Clone w/ ReactJS, Rapid API
 Build a youtube clone with components, and calling Rapid API, to get the information to populate your program.
 

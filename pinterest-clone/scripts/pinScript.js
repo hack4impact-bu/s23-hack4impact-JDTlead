@@ -20,3 +20,5 @@ document.querySelector("#picture").addEventListener("change", (event) => {
   // this allows us to choose a file over and over again
   document.querySelector("#picture").value = "";
 });
+
+// Workshop 1 ends here 
