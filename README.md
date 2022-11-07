@@ -12,6 +12,7 @@ Build the pin component
 
 #### Workshop 2 
 Build the modal component
+![](./workshop-result/Workshop2Result.gif)
 
 ### Youtube Clone w/ ReactJS, Rapid API
 Build a youtube clone with components, and calling Rapid API, to get the information to populate your program.
