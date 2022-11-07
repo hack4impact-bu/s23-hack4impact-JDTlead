@@ -8,6 +8,7 @@ Build a pinterest clone, with some backend uploading functionality. But mainly f
 
 #### Workshop 1
 Build the pin component 
+!(caption)[./workshop-result/Workshop 1 Result.gif]
 
 #### Workshop 2 
 Build the modal component
