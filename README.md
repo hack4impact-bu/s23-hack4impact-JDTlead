@@ -18,6 +18,10 @@ Build the modal component
 Build the modal and pin component
 ![](./workshop-result/Workshop3Result.gif)
 
+#### Workshop 4
+Build the final board component
+![](./workshop-result/Workshop4Result.gif)
+
 ### Youtube Clone w/ ReactJS, Rapid API
 Build a youtube clone with components, and calling Rapid API, to get the information to populate your program.
 
