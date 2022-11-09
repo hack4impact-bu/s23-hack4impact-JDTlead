@@ -29,3 +29,6 @@ Build a youtube clone with components, and calling Rapid API, to get the informa
 
 ### Twitter Clone w/ NodeJS, MongoDB
 Build a twitter clone with components, with a bare bone frontend, and more focus on the backend functionality of posting, and storing data on MongoDB.
+
+Final Project Outcome
+![](./twitter-clone/example-site.gif)
