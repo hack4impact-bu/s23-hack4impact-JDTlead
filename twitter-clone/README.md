@@ -67,11 +67,12 @@
 [ ] Respond with created mew object <br>
 ✅ Store data in a database <br>
 
+### FrontEnd 
+[ ] Log out created Mew after POST request<br>
 
 # Workshop 3
 
 ### FrontEnd 
-[ ] Log out created Mew after POST request<br>
 [ ] Show the form<br>
 [ ] Hide loading spinner<br>
 
@@ -87,3 +88,24 @@
 [ ] Reverse before appending <br>
 [ ] Show the form <br>
 [ ] Hide loading spinner <br>
+
+# Workshop 4
+
+### Backend
+[ ] npm install bad-words <br>
+[ ] Use filter before inserting into DB <br>
+[ ] npm install express-rate-limit <br>
+[ ] Limit to 1 request every 15 seconds <br>
+
+# Deploy
+[ ] Deploy it !! <br>
+✅ Deploy server with now
+[ ] Setup environment variables
+[ ] Database connection
+[ ] process.env.MONGO_URI
+✅ Show mlab
+[ ]  Deploy with environment variable
+[ ] now -e MONGO_URI=@meower-db
+[ ] Add alias
+✅ Deploy client folder with now
+[ ] Set API_URL based on hostname
