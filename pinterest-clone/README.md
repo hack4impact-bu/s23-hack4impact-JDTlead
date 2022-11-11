@@ -1,35 +1,35 @@
 # Workshop 1 CheckList 
-[ ]Create pin.html
-[ ] Link the css files + script files
-[ ] Create the html bare-bone for pin.html
-[ ] Create pinStyle.css
-[ ] Complete pinStyle.css
-[ ] Create pinScript.js
-[ ] Complete pinScript.js
+[ ]Create pin.html <br>
+[ ] Link the css files + script files <br>
+[ ] Create the html bare-bone for pin.html <br>
+[ ] Create pinStyle.css <br>
+[ ] Complete pinStyle.css <br>
+[ ] Create pinScript.js <br>
+[ ] Complete pinScript.js <br>
 
 # Workshop 2 CheckList 
-[ ] Create modal.html
-[ ] Link the css files + script files
-[ ] Create the html bare-bone for modal.html
-[ ] Create modalStyle.css
-[ ] Complete the modalStyle.css
-[ ] Create modalScript.js
-[ ] Complete the modalScript.js
+[ ] Create modal.html <br>
+[ ] Link the css files + script files <br>
+[ ] Create the html bare-bone for modal.html <br>
+[ ] Create modalStyle.css <br>
+[ ] Complete the modalStyle.css <br>
+[ ] Create modalScript.js <br>
+[ ] Complete the modalScript.js <br>
 
 # Workshop 3 CheckList 
-[ ] Create modalAndPin.html
-[ ] Link the css files + script files
-[ ] Create the html bare-bone for modalAndPin.html
-[ ] Create modalAndPin.css
-[ ] Complete the modalAndPin.css
-[ ] Create modalAndPin.js
-[ ] Complete the modalAndPin.js
+[ ] Create modalAndPin.html <br>
+[ ] Link the css files + script files <br>
+[ ] Create the html bare-bone for modalAndPin.html <br>
+[ ] Create modalAndPin.css <br>
+[ ] Complete the modalAndPin.css <br>
+[ ] Create modalAndPin.js <br>
+[ ] Complete the modalAndPin.js <br>
 
 # Workshop 4 CheckList 
-[ ] Create finalBoard.html
-[ ] Link the css files + script files
-[ ] Create the html bare-bone for finalBoard.html
-[ ] Create finalBoard.css
-[ ] Complete the finalBoard.css
-[ ] Create finalBoard.js
-[ ] Complete the finalBoard.js
+[ ] Create finalBoard.html <br>
+[ ] Link the css files + script files <br>
+[ ] Create the html bare-bone for finalBoard.html <br>
+[ ] Create finalBoard.css <br>
+[ ] Complete the finalBoard.css <br>
+[ ] Create finalBoard.js <br>
+[ ] Complete the finalBoard.js <br>
