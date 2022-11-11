@@ -70,3 +70,25 @@ Workshop 2 CheckList
 ✅ Store data in a database
 
 ------------ Workshop 2 Ends Here ------------
+
+------------ Workshop 3 Starts Here -----------
+
+## FrontEnd 
+[ ] Log out created Mew after POST request
+[ ] Show the form
+[ ] Hide loading spinner
+
+## BackEnd
+[ ] GET /mews
+- [ ] Respond with mews from DB
+✅ Retrieve data from a database on the Server
+
+## FrontEnd 
+[ ] fetch GET /mews
+- [ ] Iterate over array
+- [ ] Append each to page
+- [ ] Reverse before appending
+- [ ] Show the form
+- [ ] Hide loading spinner
+
+------------ Workshop 3 Ends Here -------------
