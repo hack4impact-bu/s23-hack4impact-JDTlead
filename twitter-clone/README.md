@@ -71,19 +71,19 @@
 # Workshop 3
 
 ### FrontEnd 
-[ ] Log out created Mew after POST request
-[ ] Show the form
-[ ] Hide loading spinner
+[ ] Log out created Mew after POST request<br>
+[ ] Show the form<br>
+[ ] Hide loading spinner<br>
 
 ### BackEnd
-[ ] GET /mews
-[ ] Respond with mews from DB
-✅ Retrieve data from a database on the Server
+[ ] GET /mews <br>
+[ ] Respond with mews from DB <br>
+✅ Retrieve data from a database on the Server <br>
 
 ### FrontEnd 
-[ ] fetch GET /mews
-[ ] Iterate over array
-[ ] Append each to page
-[ ] Reverse before appending
-[ ] Show the form
-[ ] Hide loading spinner
+[ ] fetch GET /mews <br>
+[ ] Iterate over array <br>
+[ ] Append each to page <br>
+[ ] Reverse before appending <br>
+[ ] Show the form <br>
+[ ] Hide loading spinner <br>
