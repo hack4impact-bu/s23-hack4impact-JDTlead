@@ -8,23 +8,7 @@ Spring2023 Hack4Impact Junior Development Team Repository. This repository consi
 
 Build a pinterest clone, with some backend uploading functionality. But mainly focusing on the frontend aspect of the program.
 
-#### Workshop 1
-
-Build the pin component
-![](./workshop-result/Workshop1Result.gif)
-
-#### Workshop 2
-
-Build the modal component
-![](./workshop-result/Workshop2Result.gif)
-
-#### Workshop 3
-
-Build the modal and pin component
-![](./workshop-result/Workshop3Result.gif)
-
-#### Workshop 4
-
+#### Workshop Final Project
 Build the final board component
 ![](./workshop-result/Workshop4Result.gif)
 
