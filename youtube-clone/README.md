@@ -18,6 +18,7 @@
 
 ## Workshop 9 - Deployment (OPTIONAL)
 Hosting service example: Hostinger / Github Pages
+Resources: https://pages.github.com/ 
 
 # Resources
 ⭐RapidAPI Extension: https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
