@@ -16,6 +16,9 @@ Build the final board component
 
 Build a youtube clone with components, and calling Rapid API, to get the information to populate your program.
 
+#### Workshop Final Project
+![](placeholder-text)
+
 ## BackEnd Project
 
 ### Twitter Clone w/ NodeJS, MongoDB
