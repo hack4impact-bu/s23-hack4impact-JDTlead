@@ -17,6 +17,7 @@
 ## Workshop 8 - Video Details
 
 ## Workshop 9 - Deployment (OPTIONAL)
+Hosting service example: Hostinger / Github Pages
 
 # Resources
 ⭐RapidAPI Extension: https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
