@@ -10,7 +10,7 @@
 "react-player": "^2.10.1", <br>
 "react-router-dom": "^6.3.0", <br>
 "react-scripts": "^5.0.1" <br>
-## Workshop 1 - Layouts
+## Workshop 1 - Layout
 
 [X] Installed Rapid API extension on VS Code <br>
 [X] Create React App (in the youtube clone folder) <br>
