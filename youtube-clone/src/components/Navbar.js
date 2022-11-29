@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import { logo } from "../utils/constant";
 // if have trouble with the mui icons, do this command "npm install @mui/icons-material"
 import SearchBar from "./SearchBar";
+// shortcut for react code - rafce (give you the base code)
 
 const Navbar = () => (
   <Stack
