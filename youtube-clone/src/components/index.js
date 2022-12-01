@@ -4,3 +4,6 @@ export { default as VideoDetail } from "./VideoDetail";
 export { default as ChannelDetail } from "./ChannelDetail";
 export { default as SearchFeed } from "./SearchFeed";
 export { default as SearchBar } from "./SearchBar";
+// Workshop 3
+export { default as Sidebar } from "./Sidebar";
+export { default as Video } from "./Video";
