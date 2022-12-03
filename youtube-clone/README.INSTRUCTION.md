@@ -23,7 +23,7 @@
 [ ] Create the NavBar Component <br>
 [ ] Export the "SearchBar" from index.js after creating in components <br>
 [ ] Installing icons, and the search bar icons  <br>
-[ ] Complete the barebone of the NavBar Component 
+[ ] Complete the skeleton of the NavBar Component 
 
 ## Workshop 3 - Feed & Sidebar
 [ ] Start on the Feed barebone (no fetching yet) <br>
