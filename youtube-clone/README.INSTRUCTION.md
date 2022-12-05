@@ -26,7 +26,7 @@
 [ ] Complete the skeleton of the NavBar Component 
 
 ## Workshop 3 - Feed & Sidebar
-[ ] Start on the Feed barebone (no fetching yet) <br>
+[ ] Start on the Feed skeleton (no fetching yet) <br>
 [ ] Complete Sidebar component  <br>
 [ ] Start on the Video component (rafce) <br>
 
