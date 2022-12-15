@@ -30,7 +30,7 @@
 [ ] Complete Sidebar component  <br>
 [ ] Start on the Video component (rafce) <br>
 
-## Workshop 4 - API Data Fetching
+## Workshop 4 - API Data Fetching 
 
 ## Workshop 5 - Videos
 
