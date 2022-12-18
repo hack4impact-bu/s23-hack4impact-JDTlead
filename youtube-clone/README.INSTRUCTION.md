@@ -39,7 +39,7 @@
 ## Workshop 7 - Search
   
 ## Workshop 8 - Video Details
- 
+  
 ## Workshop 9 - Deployment (OPTIONAL)
 
 Hosting service example: Hostinger / Github Pages <br>
