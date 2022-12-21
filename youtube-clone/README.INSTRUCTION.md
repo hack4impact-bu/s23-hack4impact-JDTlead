@@ -53,3 +53,4 @@ Other web hosting: https://www.quicksprout.com/best-web-hosting/ <br>
 ⭐RapidAPI : https://rapidapi.com/?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel <br>
 ⭐MaterialUI: https://mui.com/material-ui/getting-started/installation/
 ⭐JS Matery.pro: https://www.jsmastery.pro/ <br>
+⭐The Modern JavaScript Tutorial: https://javascript.info/ <br>
