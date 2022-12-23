@@ -55,3 +55,4 @@ Other web hosting: https://www.quicksprout.com/best-web-hosting/ <br>
 ⭐JS Matery.pro: https://www.jsmastery.pro/ <br>
 ⭐The Modern JavaScript Tutorial: https://javascript.info/ <br>
 ⭐Web API: https://www.w3schools.com/js/js_api_intro.asp <br>
+⭐Create your own API with Postman: https://learning.postman.com/docs/designing-and-developing-your-api/creating-an-api/ <br>
