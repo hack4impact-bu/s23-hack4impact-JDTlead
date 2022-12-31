@@ -28,7 +28,7 @@
 ## Workshop 3 - Feed & Sidebar
 [ ] Start on the Feed skeleton (no fetching yet) <br>
 [ ] Complete Sidebar component  <br>
-[ ] Start on the Video component (rafce) <br>
+[ ] Start on the Video component (rafce - short cut) <br> 
 
 ## Workshop 4 - API Data Fetching 
 
