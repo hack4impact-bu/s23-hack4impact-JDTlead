@@ -43,7 +43,7 @@
 ## Workshop 9 - Deployment (OPTIONAL)
 
 Hosting service example: Hostinger / Github Pages <br>
-Resources: https://pages.github.com/ <br>
+Resources: https://pages.github.com/ <br> 
 Basic Step for hosting: https://gist.github.com/TylerFisher/6127328 <br>
 Other web hosting: https://www.quicksprout.com/best-web-hosting/ <br>
 
