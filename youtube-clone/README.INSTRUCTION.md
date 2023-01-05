@@ -40,7 +40,7 @@
   
 ## Workshop 8 - Video Details
   
-## Workshop 9 - Deployment (OPTIONAL)
+## Workshop 9 - Deployment (OPTIONAL) 
 
 Hosting service example: Hostinger / Github Pages <br>
 Resources: https://pages.github.com/ <br> 
