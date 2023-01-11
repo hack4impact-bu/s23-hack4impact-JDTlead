@@ -40,6 +40,11 @@
 [ ] Call videos to render the videos components 
 
 ## Workshop 5 - Videos  
+[ ] Create the Video.js 
+[ ] Create VideoCard and ChanelCard Component 
+[ ] Export the 2 components in index.js 
+[ ] Dislpay video on videocard.js 
+[ ] Display channel on channel.js 
  
 ## Workshop 6 - Profile Page 
  

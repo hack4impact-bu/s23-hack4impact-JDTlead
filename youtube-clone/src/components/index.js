@@ -7,3 +7,8 @@ export { default as SearchBar } from "./SearchBar";
 // Workshop 3
 export { default as Sidebar } from "./Sidebar";
 export { default as Video } from "./Video";
+
+//Workshop 6
+export { default as ChannelCard } from "./ChannelCard";
+export { default as VideoCard } from "./VideoCard";
+export { default as Loader } from "./Loader";

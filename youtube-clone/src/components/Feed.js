@@ -40,7 +40,6 @@ const Feed = () => {
           Copyright © 2022 JDT Lead
         </Typography>
       </Box>
-      /* Box for videos */
       <Box>
         <Typography
           variant="h4"
