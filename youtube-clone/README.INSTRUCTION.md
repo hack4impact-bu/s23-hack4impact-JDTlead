@@ -31,6 +31,13 @@
 [ ] Start on the Video component (rafce - short cut) <br> 
 
 ## Workshop 4 - API Data Fetching 
+[ ] Copy Code Snippet from Rapid API 
+[ ] Create "fetchFromAPI.ks" in utils folder 
+[ ] Create ".env" in root folder
+[ ] Call the fetchFromAPI function from Feed.js 
+[ ] Add onclick property in Sidebar.js 
+[ ] Render new selected category on Feed.js 
+[ ] Call videos to render the videos components 
 
 ## Workshop 5 - Videos  
  
