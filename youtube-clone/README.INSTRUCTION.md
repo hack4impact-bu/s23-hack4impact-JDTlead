@@ -46,7 +46,7 @@
 [ ] Dislpay video on videocard.js <br> 
 [ ] Display channel on channel.js <br> 
   
-## Workshop 6 - Profile Page 
+## Workshop 6 - Profile Page  
  
 ## Workshop 7 - Search
    
