@@ -59,7 +59,7 @@ Resources: https://pages.github.com/ <br>
 Basic Step for hosting: https://gist.github.com/TylerFisher/6127328 <br>
 Other web hosting: https://www.quicksprout.com/best-web-hosting/ <br> 
 
-# Resources
+# Resources 
 
 ⭐RapidAPI Extension: https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel <br>
 ⭐RapidAPI : https://rapidapi.com/?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel <br>
