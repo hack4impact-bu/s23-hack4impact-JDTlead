@@ -15,7 +15,7 @@
 [X] Installed Rapid API extension on VS Code <br>
 [X] Create React App (in the youtube clone folder) <br>  
 [ ] npx create-react-app ./<br>
-[ ] npm install --legacy--peer-deps <br>
+[ ] npm install --legacy--peer-deps <br> 
 [ ] Create the react router routes + system structure in App.js <br> 
 [ ] Import all the files into App.js (writing the index.js script in components folder) <br>
 
