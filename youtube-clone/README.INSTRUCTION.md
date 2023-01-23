@@ -44,7 +44,7 @@
 [ ] Create VideoCard and ChanelCard Component <br> 
 [ ] Export the 2 components in index.js <br> 
 [ ] Dislpay video on videocard.js <br> 
-[ ] Display channel on channel.js <br> 
+[ ] Display channel on channel.js <br>   
   
 ## Workshop 6 - Profile Page  
  
