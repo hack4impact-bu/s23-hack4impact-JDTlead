@@ -6,7 +6,7 @@
 "@mui/material": "^5.9.3",
 "axios": "^0.27.2", <br>
 "react": "^18.2.0", <br>
-"react-dom": "^18.2.0", <br>
+"react-dom": "^18.2.0", <br> 
 "react-player": "^2.10.1", <br>
 "react-router-dom": "^6.3.0", <br>
 "react-scripts": "^5.0.1" <br>
