@@ -18,7 +18,7 @@
 [ ] npm install --legacy--peer-deps <br> 
 [ ] Create the react router routes + system structure in App.js <br> 
 [ ] Import all the files into App.js (writing the index.js script in components folder) <br>
-
+ 
 ## Workshop 2 - NavBar
 [ ] Create the NavBar Component <br>
 [ ] Export the "SearchBar" from index.js after creating in components <br>
